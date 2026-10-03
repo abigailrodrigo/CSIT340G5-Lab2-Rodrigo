@@ -17,9 +17,9 @@ export default function ContactSection() {
           text="github.com/abigailrodrigo"
         />
         <ContactLink
-          label="LinkedIn"
-          href="https://linkedin.com/in/abigailrodrigo"
-          text="linkedin.com/in/abigailrodrigo"
+          label="Facebook"
+          href="https://www.facebook.com/aabbbyyyyy"
+          text="facebook.com/aabbbyyyyy"
         />
       </ul>
     </section>
